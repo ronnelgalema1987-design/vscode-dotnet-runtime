@@ -232,4 +232,5 @@ Please set the PATH to a dotnet host that matches the architecture ${requirement
 
         return runtimeInfo;
     }
+
 }
